@@ -1,0 +1,30 @@
+#
+# Copyright (C) 2016+ AzerothCore <www.azerothcore.org>, released under GNU AGPL v3 license: https://github.com/azerothcore/azerothcore-wotlk/blob/master/LICENSE-AGPL3
+#
+
+[worldserver]
+
+########################################
+# Softcore module configuration
+########################################
+#
+#    Softcore.Enable
+#        Description: Enable the death penalty system.
+#        Default:     0 - Disabled
+#                     1 - Enabled
+#
+#    Softcore.CurrentLevelXPLossPercent
+#        Description: Percentage of the total XP required for the current level removed when a non-max-level character dies.
+#                     The character never loses a level; XP is clamped at 0 within the current level.
+#                     Values above 100 are clamped to 100.
+#        Default:     10
+#
+#    Softcore.MaxLevelGoldLossPercent
+#        Description: Percentage of carried money removed when any character dies.
+#                     Values above 100 are clamped to 100.
+#        Default:     10
+#
+
+Softcore.Enable = 1
+Softcore.CurrentLevelXPLossPercent = 10
+Softcore.MaxLevelGoldLossPercent = 10
