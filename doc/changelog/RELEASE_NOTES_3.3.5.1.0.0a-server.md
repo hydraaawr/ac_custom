@@ -80,6 +80,21 @@ Vanilla Era — Level 39 Cap — Softcore — 350 Bot World
 
 ---
 
+## Module Commits
+
+| Module | Commit |
+|--------|--------|
+| mod-ah-bot-plus | 1822d96 |
+| mod-ale | b9c03a3 |
+| mod-autobalance | 73d4ad3 |
+| mod-individual-progression | 822b530 |
+| mod-player-bot-level-brackets | b03737f |
+| mod-playerbots | 531282e4 |
+| mod-profession-experience | ad28fea |
+| mod-softcore | c747b35 |
+
+---
+
 *Generated on 2026-05-14 from env/dist/etc/*.conf and env/dist/etc/modules/*.conf diffs against .dist defaults.*
 # Notas de la Version
 
@@ -160,6 +175,21 @@ Era Vanilla — Nivel maximo 39 — Softcore — Mundo con 350 bots
 
 ### Rangos de nivel de bots
 - Configuracion por defecto — sin cambios
+
+---
+
+## Commits de los modulos
+
+| Modulo | Commit |
+|--------|--------|
+| mod-ah-bot-plus | 1822d96 |
+| mod-ale | b9c03a3 |
+| mod-autobalance | 73d4ad3 |
+| mod-individual-progression | 822b530 |
+| mod-player-bot-level-brackets | b03737f |
+| mod-playerbots | 531282e4 |
+| mod-profession-experience | ad28fea |
+| mod-softcore | c747b35 |
 
 ---
 
