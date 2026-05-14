@@ -82,16 +82,16 @@ Vanilla Era — Level 39 Cap — Softcore — 350 Bot World
 
 ## Module Commits
 
-| Module | Commit |
-|--------|--------|
-| mod-ah-bot-plus | 1822d96 |
-| mod-ale | b9c03a3 |
-| mod-autobalance | 73d4ad3 |
-| mod-individual-progression | 822b530 |
-| mod-player-bot-level-brackets | b03737f |
-| mod-playerbots | 531282e4 |
-| mod-profession-experience | ad28fea |
-| mod-softcore | c747b35 |
+| Module | Repository | Commit |
+|--------|------------|--------|
+| mod-ah-bot-plus | https://github.com/NathanHandley/mod-ah-bot-plus | [1822d96](https://github.com/NathanHandley/mod-ah-bot-plus/commit/1822d96) |
+| mod-ale | https://github.com/azerothcore/mod-ale | [b9c03a3](https://github.com/azerothcore/mod-ale/commit/b9c03a3) |
+| mod-autobalance | https://github.com/azerothcore/mod-autobalance | [73d4ad3](https://github.com/azerothcore/mod-autobalance/commit/73d4ad3) |
+| mod-individual-progression | https://github.com/ZhengPeiRu21/mod-individual-progression | [822b530](https://github.com/ZhengPeiRu21/mod-individual-progression/commit/822b530) |
+| mod-player-bot-level-brackets | https://github.com/DustinHendrickson/mod-player-bot-level-brackets | [b03737f](https://github.com/DustinHendrickson/mod-player-bot-level-brackets/commit/b03737f) |
+| mod-playerbots | https://github.com/mod-playerbots/mod-playerbots | [531282e4](https://github.com/mod-playerbots/mod-playerbots/commit/531282e4) |
+| mod-profession-experience | https://github.com/Tereneckla/mod-profession-experience | [ad28fea](https://github.com/Tereneckla/mod-profession-experience/commit/ad28fea) |
+| mod-softcore | https://github.com/hydraaawr/mod-softcore | [c747b35](https://github.com/hydraaawr/mod-softcore/commit/c747b35) |
 
 ---
 
@@ -180,16 +180,16 @@ Era Vanilla — Nivel maximo 39 — Softcore — Mundo con 350 bots
 
 ## Commits de los modulos
 
-| Modulo | Commit |
-|--------|--------|
-| mod-ah-bot-plus | 1822d96 |
-| mod-ale | b9c03a3 |
-| mod-autobalance | 73d4ad3 |
-| mod-individual-progression | 822b530 |
-| mod-player-bot-level-brackets | b03737f |
-| mod-playerbots | 531282e4 |
-| mod-profession-experience | ad28fea |
-| mod-softcore | c747b35 |
+| Modulo | Repositorio | Commit |
+|--------|-------------|--------|
+| mod-ah-bot-plus | https://github.com/NathanHandley/mod-ah-bot-plus | [1822d96](https://github.com/NathanHandley/mod-ah-bot-plus/commit/1822d96) |
+| mod-ale | https://github.com/azerothcore/mod-ale | [b9c03a3](https://github.com/azerothcore/mod-ale/commit/b9c03a3) |
+| mod-autobalance | https://github.com/azerothcore/mod-autobalance | [73d4ad3](https://github.com/azerothcore/mod-autobalance/commit/73d4ad3) |
+| mod-individual-progression | https://github.com/ZhengPeiRu21/mod-individual-progression | [822b530](https://github.com/ZhengPeiRu21/mod-individual-progression/commit/822b530) |
+| mod-player-bot-level-brackets | https://github.com/DustinHendrickson/mod-player-bot-level-brackets | [b03737f](https://github.com/DustinHendrickson/mod-player-bot-level-brackets/commit/b03737f) |
+| mod-playerbots | https://github.com/mod-playerbots/mod-playerbots | [531282e4](https://github.com/mod-playerbots/mod-playerbots/commit/531282e4) |
+| mod-profession-experience | https://github.com/Tereneckla/mod-profession-experience | [ad28fea](https://github.com/Tereneckla/mod-profession-experience/commit/ad28fea) |
+| mod-softcore | https://github.com/hydraaawr/mod-softcore | [c747b35](https://github.com/hydraaawr/mod-softcore/commit/c747b35) |
 
 ---
 
