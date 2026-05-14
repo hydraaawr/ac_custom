@@ -2,8 +2,6 @@
 # Dumps AzerothCore DBs to MEGA as a single compressed archive, retaining last 10 backups
 BACKUP_DIR="$HOME/ac_db_backup_temp"
 DATE=$(date +%Y%m%d_%H%M)
-MYSQL_USER="acore"
-MYSQL_PASS="UFFEuDy3Pj9WtHZEUPdLvojxV0lgom"
 KEEP_COUNT=10
 MEGA_REMOTE="mega1:backups/ac_db_backup"
 ARCHIVE_FILE="$BACKUP_DIR/acore_all_${DATE}.tar.gz"
@@ -16,7 +14,7 @@ log "Starting backup"
 # Dump each DB to individual sql file inside temp dir
 for DB in acore_world acore_characters acore_auth; do
     log "Dumping $DB..."
-    mysqldump --no-tablespaces -u "$MYSQL_USER" -p"$MYSQL_PASS" "$DB" \
+    mysqldump --no-tablespaces "$DB" \
         > "$BACKUP_DIR/${DB}_${DATE}.sql"
     log "$DB dump complete"
 done

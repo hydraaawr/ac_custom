@@ -116,4 +116,7 @@ local.properties
 .cache
 compile_commands.json
 ac_db_backup_cloud_mirror.log*
-!env/dist/etc
+!env/dist/etc/modules
+env/dist/etc/authserver.conf
+env/dist/etc/worldserver.conf
+env/dist/etc/modules/playerbots.conf
