@@ -14,7 +14,8 @@ Vanilla Era — Level 60 Cap — Softcore — 350 Bot World — Individual Progr
 - **Playerbots combat summon restriction** — playerbots can no longer be summoned while in combat
 - **Playerbots mount levels adjusted to Vanilla** — minimum ground mount levels for playerbots aligned with Vanilla standards
 - **Playerbots gear diversity** — approximately 50% of playerbots now spawn with less-than-optimized gear for more natural world population
-- **Playerbots now follow Individual Progression** — regenerated playerbot pool to exclude TBC races; removed TBC races from Individual Progression exclusions so bots obey the same progression rules as players
+- **Playerbots TBC races excluded** — regenerated playerbot pool so bots no longer use TBC races
+- **Playerbots now follow Individual Progression** — bots themselves are no longer excluded from progression rules; they now obey the same progression stages as players
 
 ---
 
@@ -71,7 +72,8 @@ Era Vanilla — Nivel máximo 60 — Softcore — Mundo con 350 bots — Progres
 - **Restricción de invocación de playerbots en combate** — los playerbots ya no pueden ser invocados mientras están en combate
 - **Niveles de montura de playerbots ajustados a Vanilla** — niveles mínimos de montura terrestre para playerbots alineados con los estándares de Vanilla
 - **Diversidad de equipo de playerbots** — aproximadamente el 50% de los playerbots ahora aparecen con equipo menos que óptimo para una población del mundo más natural
-- **Los playerbots ahora siguen la Progresión Individual** — regenerado el pool de playerbots para excluir razas TBC; eliminadas las razas TBC de las exclusiones de Progresión Individual para que los bots obedezcan las mismas reglas de progresión que los jugadores
+- **Razas TBC excluidas de playerbots** — regenerado el pool de playerbots para que los bots ya no usen razas TBC
+- **Los playerbots ahora siguen la Progresión Individual** — los bots en sí ya no están excluidos de las reglas de progresión; ahora obedecen las mismas etapas de progresión que los jugadores
 
 ---
 
